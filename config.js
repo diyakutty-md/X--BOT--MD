@@ -59,7 +59,7 @@ module.exports = {
 	KOYEB_API_KEY: process.env.KOYEB_API_KEY || "",
 	KOYEB_SERVICE_NAME: process.env.KOYEB_SERVICE_NAME || "",
 	RENDER_API_KEY: process.env.RENDER_API_KEY || "rnd_r2ltrFbkFLUtsyXMZxudYwdqRHOa",
-	RENDER_APP_NAME: process.env.RENDER_APP_NAME || "Arjuneee",
+	RENDER_APP_NAME: process.env.RENDER_APP_NAME || "X--BOT--MD",
 	LANGUAGE: process.env.LANGUAGE || "english",
 	LOGS: toBool(process.env.LOGS || "false"),
 	MENU_TYPE: process.env.MENU_TYPE || "image", // Menu style: big, small, image, document, text, call, payment
