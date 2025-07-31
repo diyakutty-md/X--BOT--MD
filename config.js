@@ -73,7 +73,7 @@ module.exports = {
 	SESSION_ID: process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:eb71fd9fcaf8c2943580b55de2f68b36",
 	START_MSG: toBool(process.env.START_MSG || "true"),
 	STICKER_DATA: process.env.STICKER_DATA || `𝐌𝐎𝐎𝐍 𝐗𝐃    𝙉𝙄𝘾𝙊𝙏𝙀𝙓 𝙄𝙎 𝘼 𝘿𝙄𝙍𝙏𝙔 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎`,
-	SUDO: process.env.SUDO || "919497705819",
+	SUDO: process.env.SUDO || "916282088181,919497705819",
 	WORK_TYPE: process.env.WORK_TYPE || "public",
 	SAVE_STATUS: toBool(process.env.SAVE_STATUS || "false"),
 	STATUS_REPLY: toBool(process.env.STATUS_REPLY || "false"),
