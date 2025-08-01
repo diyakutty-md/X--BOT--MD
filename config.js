@@ -70,7 +70,7 @@ module.exports = {
 	READ_MESSAGES: toBool(process.env.READ_MESSAGES || "false"),
 	REJECT_CALL: toBool(process.env.REJECT_CALL || "false"),
 	REJECT_CALL_MSG: process.env.REJECT_CALL_MSG || "_Calls are not allowed. Please don’t call again!._",
-	SESSION_ID: process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:eb71fd9fcaf8c2943580b55de2f68b36",
+	SESSION_ID: process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:ea20b509cd27c192c07c62085ce75c39",
 	START_MSG: toBool(process.env.START_MSG || "true"),
 	STICKER_DATA: process.env.STICKER_DATA || `𝐌𝐎𝐎𝐍 𝐗𝐃    𝙉𝙄𝘾𝙊𝙏𝙀𝙓 𝙄𝙎 𝘼 𝘿𝙄𝙍𝙏𝙔 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎`,
 	SUDO: process.env.SUDO || "916282088181,919497705819",
